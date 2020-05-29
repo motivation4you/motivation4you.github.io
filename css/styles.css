@@ -11,7 +11,7 @@ body {
     font-family: "Montserrat", "Helvetica", sans-serif;
     font-size: 17px;
     padding: 25px;
-    background: url('../images/bg.jpg') repeat;
+    background: url('images/bg.jpg') repeat;
     height: 5000px;
     color: #eee;
 }
